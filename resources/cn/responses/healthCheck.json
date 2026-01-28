@@ -1,0 +1,7 @@
+{
+    "validHealthCheckResponse": {
+        "success": "#boolean",
+        "status": 200,
+        "message": "#string"
+    }
+}

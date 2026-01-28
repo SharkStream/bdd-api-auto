@@ -1,0 +1,7 @@
+{
+    "context": {},
+    "endpoints": {
+        "login": "/login",
+        "healthCheck": "/notes/api/health-check"
+    }
+}
